@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    font-size: 80px;
+    font-family: Impact;
+}
+p{
+    font-size: 35px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+button{
+    background-color: blue;
+    color: white;
+    width: 250px;
+    height: 80px;
+}
+button:hover{
+    background-color: green;
+}
